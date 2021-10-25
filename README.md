@@ -1,2 +1,2 @@
-# lauragruet.github.com
+# lauragruet.github.io
 Portfolio Laura Gruet
